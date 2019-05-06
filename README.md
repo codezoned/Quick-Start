@@ -18,7 +18,7 @@ Lets get started.
     One more thing before you start to commit, don't forget to star all our projects.
 
 2. Wanna find some active members of codezoned then join our Discord Channel. Feel free to talk to us anytime. We are always happy to interact and hear new ideas from you.
-   [Click here to join.](https://discordapp.com/invite/aMZY22)
+   [Click here to join.](https://discord.gg/5wkJvxK)
 3. Codezoned FORUM - Yes , we also have a forum.
     It is a wide collection of articles and answers for young developers like you. You can post any article or questions. There are various categories like Web Development , Art, General Discussion ,codezoned etc.
     Lets jump to Forum---[Click Here!!!](http://talk.codezoned.com/)
